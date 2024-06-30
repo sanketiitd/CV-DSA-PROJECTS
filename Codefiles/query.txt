@@ -1,0 +1,1 @@
+I have a large corpus of books, and I want to find the top k paragraphs most relevant to the query 'What were gandhi views om Rajiv gandhi '. Give a list of keywords (which are single words) that I can use to find the top k paragraphs. just give the string of words nothing else only the string of words relevant to it. give only a few words, and dont give irrelevant words.
